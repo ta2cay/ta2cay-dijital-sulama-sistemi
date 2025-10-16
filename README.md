@@ -5,6 +5,7 @@ Bu proje, Arduino kullanarak bitkiler için akıllı bir sulama asistanı oluşt
 Bu proje, sensör okuma, veri işleme, ekran kullanımı ve basit uyarı mekanizmaları gibi temel Arduino konseptlerini öğrenmek için harika bir başlangıç noktasıdır.
 
 ## Projenin Çalışır Hali
+[![Arduino Akıllı Sulama Sistemi Video Anlatımı](https://img.youtube.com/vi/gD_RaP5mk0g/0.jpg)](https://www.youtube.com/watch?v=gD_RaP5mk0g)
 
 <table>
   <tr>
